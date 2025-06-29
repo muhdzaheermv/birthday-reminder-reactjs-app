@@ -1,6 +1,6 @@
 # 🎉 Birthday Reminder App using ReactJS
 
-![Homepage](./src/assets/images/homepage.png)
+![Homepage](./src/homepage.png)
 
 A simple and beginner-friendly Birthday Reminder App built with **ReactJS**. This project is perfect for those who are just starting out with React and want to get hands-on experience with component-based UI and state management using hooks.
 
