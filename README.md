@@ -21,10 +21,6 @@ A simple and beginner-friendly Birthday Reminder App built with **ReactJS**. Thi
 - Easy-to-understand component structure
 - Clean and minimalistic UI
 
-## 📸 Screenshot
-
-![Homepage](./src/assets/images/homepage.png)
-
 ## 📚 Ideal For
 
 - ReactJS Beginners
