@@ -31,7 +31,7 @@ A simple and beginner-friendly Birthday Reminder App built with **ReactJS**. Thi
 ## 📫 Contact Me
 
 - **📧 Email:** muhdzaheermv@gmail.com  
-- **🔗 Portfolio:** [https://portfolio-lilac-eight-60.vercel.app/](https://portfolio-lilac-eight-60.vercel.app/)  
+- **🔗 Portfolio:** [https://portfolio-lilac-eight-60.vercel.app/](https://zaheermv.vercel.app/)  
 - **💼 LinkedIn:** [https://www.linkedin.com/in/muhammed-zaheer-836132244/](https://www.linkedin.com/in/muhammed-zaheer-836132244/)
 
 ## ⭐ Like This Project?
